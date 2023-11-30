@@ -1,0 +1,1 @@
+export type TPromt = 'input' | 'password' | 'number'
